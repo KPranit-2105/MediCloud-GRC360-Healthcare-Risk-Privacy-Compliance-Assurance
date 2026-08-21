@@ -26,7 +26,7 @@ This repository contains a **complete, auditable, evidence-backed Enterprise GRC
 ## 📊 Program Scale at a Glance
 
 <p align="center">
-  <img src="assets_medicloud/program_scale.svg" alt="MediCloud GRC Program Scale Overview" width="850">
+  <img src="GRC02/program_scale.svg" alt="MediCloud GRC Program Scale Overview" width="850">
 </p>
 
 | Metric | Detail |
@@ -44,7 +44,7 @@ This repository contains a **complete, auditable, evidence-backed Enterprise GRC
 Every entity in this program connects through explicit relational IDs — nothing lives in isolation. A single vendor incident traces cleanly from the application it touched all the way through to the executive dashboard:
 
 <p align="center">
-  <img src="assets_medicloud/operating_thread.svg" alt="Central GRC Operating Thread Diagram" width="1000">
+  <img src="GRC02/operating_thread.svg" alt="Central GRC Operating Thread Diagram" width="1000">
 </p>
 
 This traceability is the difference between a GRC program that *looks* organized and one that actually **survives an audit** — any finding can be walked backward to the exact control, risk, and application that produced it.
@@ -82,7 +82,7 @@ MediCloud-GRC-Project/
 The entire data model was designed to map directly onto ServiceNow Integrated Risk Management (IRM) — this isn't a spreadsheet exercise pretending to be enterprise-ready, it's structured to migrate into a real IRM platform with minimal rework.
 
 <p align="center">
-  <img src="assets_medicloud/servicenow_mapping.svg" alt="ServiceNow IRM Architecture Alignment Diagram" width="700">
+  <img src="GRC02/servicenow_mapping.svg" alt="ServiceNow IRM Architecture Alignment Diagram" width="700">
 </p>
 
 | GRC Program Module | ServiceNow IRM Table |
